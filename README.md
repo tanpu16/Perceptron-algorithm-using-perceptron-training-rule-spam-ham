@@ -1,4 +1,4 @@
-# Perceptron-algorithm-using-perceptron-training-rule-
+# Perceptron-algorithm-using-perceptron-training-rule-spam-ham
 
 Implement the perceptron algorithm (use the perceptron training rule and not
 the gradient descent rule). Your task here is to experiment with different
